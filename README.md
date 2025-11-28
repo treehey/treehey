@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=300&section=header&text=TREE_HEY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🎓%20Nanjing%20University%20%7C%20Intelligent%20Software%20Engineering&descAlignY=60&descSize=18&stroke=ffffff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=TREE_HEY&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🎓%20Nanjing%20University%20|%20Intelligent%20Software%20Engineering&descAlignY=55&descSize=20&descColor=ffffff" />
 </div>
 
 <!-- Animated Social Links -->
 <div align="center">
   <a href="https://github.com/treehey">
-    <img src="https://img.shields.io/badge/GitHub-treehey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-treehey-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=treehey&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/treehey?style=for-the-badge&logo=github&color=06B6D4&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/treehey?style=for-the-badge&logo=github&color=764ba2" />
 </div>
 
 <br />
@@ -16,26 +16,34 @@
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Where+Code+Meets+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Where+Code+Meets+Intelligence" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=700&lines=console.log(%22Hello%2C+World!+I'm+Tree_Hey%22);print(%22Student+%40+Nanjing+University%22);echo+%22Exploring+Intelligent+Software+Engineering%22;%2F%2F+Turning+Coffee+into+Code+%E2%98%95" alt="Code Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=764BA2&center=true&vCenter=true&width=700&lines=console.log(%22Hello%2C+World!+I'm+Tree_Hey%22);print(%22Student+%40+Nanjing+University%22);echo+%22Exploring+Intelligent+Software+Engineering%22;%2F%2F+Turning+Coffee+into+Code+%E2%98%95" alt="Code Typing" />
 </div>
 
 <br />
 
-<!-- 3D Contribution Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/treehey/treehey/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/treehey/treehey/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/treehey/treehey/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<br /><br />
+<br />
+
+<!-- Snake Animation - 贪吃蛇动画 -->
+<div align="center">
+  <h3>🐍 Watch the Snake Eat My Contributions!</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/treehey/treehey/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/treehey/treehey/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/treehey/treehey/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br />
 
 <!-- About Me Section with Glowing Border -->
 <div align="center">
@@ -76,19 +84,32 @@ philosophy: "Code is poetry written in logic"
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" height="130" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true" height="130" />
+  </picture>
 </div>
 
 </td>
 </tr>
 </table>
 </div>
+
+<br />
+
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br />
 
@@ -99,12 +120,17 @@ philosophy: "Code is poetry written in logic"
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,html,css,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,html,css,js,ts" />
   <br />
-  <img src="https://skillicons.dev/icons?i=dotnet,pytorch,tensorflow,git,github,vscode,visualstudio,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,pytorch,tensorflow,git,github,vscode,visualstudio,idea" />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,docker,mysql,mongodb,azure,aws,figma,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,mysql,mongodb,azure,aws,figma,md" />
 </div>
+
+<br />
+
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br />
 
@@ -124,22 +150,35 @@ AI/ML           ██████████████░░░░░░░�
 
 <br />
 
-<!-- GitHub Streak Stats with Neon Effect -->
+<!-- GitHub Streak Stats -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
   <samp> Contribution Stats </samp>
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=treehey&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=06B6D4&dates=888888" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=treehey&theme=tokyonight&hide_border=true&background=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=treehey&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=treehey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <br />
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=treehey&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=10B981&area=true&area_color=8B5CF6&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=treehey&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=treehey&bg_color=ffffff&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=treehey&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true" alt="Activity Graph" />
+  </picture>
 </div>
+
+<br />
+
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br />
 
@@ -150,15 +189,28 @@ AI/ML           ██████████████░░░░░░░�
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=treehey&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=treehey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=treehey&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=treehey&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophy" />
+  </picture>
 </div>
 
 <br />
 
 <!-- Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  </picture>
 </div>
+
+<br />
+
+<!-- Animated Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br />
 
@@ -177,7 +229,7 @@ AI/ML           ██████████████░░░░░░░�
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </div>
 
 <!-- Hidden Easter Egg -->

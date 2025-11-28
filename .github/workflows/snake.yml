@@ -1,0 +1,43 @@
+# 🐍 GitHub Snake Animation
+# 这个 Action 会自动生成贪吃蛇动画，每 12 小时更新一次
+
+name: Generate Snake Animation
+
+on:
+  # 每 12 小时自动运行一次
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # 允许手动触发
+  workflow_dispatch:
+  
+  # 当 push 到 main 分支时也运行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # 生成贪吃蛇 SVG
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 将生成的 SVG 推送到 output 分支
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
