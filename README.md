@@ -84,13 +84,18 @@ philosophy: "Code is poetry written in logic"
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" height="165" />
+  <!-- GitHub 官方徽章 - 永远不会挂 -->
+  <img src="https://img.shields.io/github/stars/treehey?style=for-the-badge&logo=github&label=Total%20Stars&color=667eea" />
+  <img src="https://img.shields.io/github/commit-activity/m/treehey/treehey?style=for-the-badge&logo=github&label=Commits&color=764ba2" />
+  <img src="https://img.shields.io/github/last-commit/treehey/treehey?style=for-the-badge&logo=github&label=Last%20Commit&color=f093fb" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="130" />
+  <img src="https://img.shields.io/badge/Python-🐍%20Main%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-💻%20Learning-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-🎨%20Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 </td>
