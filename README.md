@@ -1,63 +1,70 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Tree_Hey;Intelligent+Software+Engineering;Explorer+of+Code+Universes;Building+the+Future" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tree_Hey&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Nanjing%20University%20%7C%20Intelligent%20Software%20Engineering&descAlignY=65&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
-  <h2 align="center">🚀 Intelligent Software Engineering | Tech Enthusiast</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A9D6E5&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Tree_Hey;Student+at+Nanjing+University+%F0%9F%8F%9B%EF%B8%8F;Exploring+Intelligent+Software+Engineering;Coding+with+Passion+and+Purpose" alt="Typing SVG" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <p>
-    Welcome to my digital workspace! I am a passionate developer specializing in <b>Intelligent Software Engineering</b>. 
-    With a curiosity that knows no bounds, I explore the intersection of software development and artificial intelligence.
-    I am currently honing my skills in <b>Python</b> and <b>C#</b>, aiming to build smarter, scalable, and efficient systems.
-  </p>
+  <table>
+    <tr>
+      <td valign="center" width="50%">
+        <h3 align="center">🧐 About Me</h3>
+        <p>
+          🎓 I am currently pursuing my degree at <b>Nanjing University (NJU)</b>.
+          <br/>
+          💻 My major is <b>Intelligent Software Engineering</b>.
+          <br/>
+          🌌 I love exploring the infinite possibilities of code and AI.
+          <br/>
+          🌱 Learning: <b>C#</b>, <b>Python</b>, and <b>AI Algorithms</b>.
+        </p>
+      </td>
+      <td valign="center" width="50%">
+        <h3 align="center">🚀 Quick Stats</h3>
+        <div align="center">
+           <img src="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="140" alt="stats" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br />
 
-### 🛠️ Arsenal & Technologies
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,git,github,vscode,visualstudio,idea,md&perline=15" />
 </div>
 
-<br/>
-
-### 📊 Coding Analytics
+<br />
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Treehey's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=treehey&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br />
+
+<h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=treehey&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=treehey&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<br/>
-
-### 🏆 Achievements
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Achievement-YOLO-ff69b4?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-4285f4?style=flat-square&logo=github" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&animation=fadeIn"/>
 </div>
