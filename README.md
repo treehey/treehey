@@ -84,21 +84,13 @@ philosophy: "Code is poetry written in logic"
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=treehey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true" height="130" />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=treehey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="130" />
 </div>
 
 </td>
@@ -157,11 +149,7 @@ AI/ML           ██████████████░░░░░░░�
 </h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=treehey&theme=tokyonight&hide_border=true&background=1a1b27" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=treehey&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=treehey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=treehey&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </div>
 
 <br />
